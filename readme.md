@@ -19,4 +19,5 @@ If you want to also remove it locally, remove the venv folder and re-run the `ba
 ### FAQ
 
 - Tkinter doesn't work with WSL
-  Follow this stackoverflow comment to fix it: https://stackoverflow.com/a/48304920/
+
+Follow this stackoverflow comment to fix it: https://stackoverflow.com/a/48304920/
