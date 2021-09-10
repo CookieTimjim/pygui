@@ -2,8 +2,8 @@
 
 ### Requirements
 
-    - Python 3
-    - Python 3 tkinter
+- Python 3
+- Python 3 tkinter
 
 ### Setup and Installing (new) Dependencies
 
@@ -18,5 +18,5 @@ If you want to also remove it locally, remove the venv folder and re-run the `ba
 
 ### FAQ
 
-    - Tkinter doesn't work with WSL
-    Follow this stackoverflow comment to fix it: https://stackoverflow.com/a/48304920/
+- Tkinter doesn't work with WSL
+  Follow this stackoverflow comment to fix it: https://stackoverflow.com/a/48304920/
