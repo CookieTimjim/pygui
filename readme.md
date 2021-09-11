@@ -21,3 +21,8 @@ If you want to also remove it locally, remove the venv folder and re-run the `ba
 - Tkinter doesn't work with WSL
 
 Follow this stackoverflow comment to fix it: https://stackoverflow.com/a/48304920/
+
+- Why flash cards?
+
+I originally didn't know what to actually do with this, but then I got some motivation to study something and decided flash cards was a good way to learn that.
+Of course I could've used any of the online or paper alternatives but I'd rather make it myself, since I was planning to make a gui application anyways :)
